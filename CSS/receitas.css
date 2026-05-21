@@ -1,0 +1,16 @@
+body {
+            font-family: Arial, sans-serif;
+            background-color: #0f172a;
+            color: #e2e8f0;
+            margin: 0;
+            padding: 0;
+            display: inline-grid;
+        }
+a:link{
+   color: white;
+   background-color: white;
+}
+a:hover{
+    color: blueviolet;
+    background-color: blueviolet;
+}
